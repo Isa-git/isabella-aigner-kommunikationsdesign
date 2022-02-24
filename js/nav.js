@@ -39,10 +39,15 @@ nav.innerHTML = '<!--------------------- desktop navi---------------------------
           '<a href="#"> Projekte </a>' + '\n' +
           '<div id="desktop-navi--top-projects-nav">' + '\n' +
               '<ul>' + '\n' +
-                '<li id="menu-web"><a href="web.html">Web</a></li>' + '\n' +
-                '<li id="menu-print"><a href="print.html">Print</a></li>' + '\n' +
-                '<li id="menu-corporateDesign"><a href="corporateDesign.html">Corporate Design</a></li>' + '\n' +
-                '<li id="menu-freeProjects"><a href="freieProjekte.html">Freie Projekte</a></li>' + '\n' +
+                  '<li id="menu-corporateDesign"><a href="corporateDesign.html">Corporate Design</a></li>' + '\n' +
+                  '<li id="menu-advertising"><a href="advertising.html">Advertising</a></li>' + '\n' +
+                  '<li id="menu-print"><a href="print.html">Print</a></li>' + '\n' +
+                  '<li id="menu-packaging"><a href="packaging.html">Packaging</a></li>' + '\n' +
+                  '<li id="menu-web"><a href="web.html">Web</a></li>' + '\n' +
+                  '<li id="menu-photography"><a href="fotografie.html">Fotografie</a></li>' + '\n' +
+                  '<li id="menu-3D"><a href="3D.html">3D</a></li>' + '\n' +
+                  '<li id="menu-illustration"><a href="illustration.html">Illustrationen</a></li>' + '\n' +
+                  '<li id="menu-freeProjects"><a href="freieProjekte.html">Freie Projekte</a></li>' + '\n' +
               '</ul>' + '\n' +
           '</div>' + '\n' +
       '</li>' + '\n' +
@@ -90,9 +95,14 @@ nav.innerHTML = '<!--------------------- desktop navi---------------------------
                   '</li>' + '\n' +
                   '<li><a id="showProjectInside" href="#">Projekte</a>' + '\n' +
                       '<ul id="projectInside" style="display: none;">' + '\n' +
-                          '<li id="menu-web"><a href="web.html">Web</a></li>' + '\n' +
-                          '<li id="menu-print"><a href="/print.html">Print</a></li>' + '\n' +
                           '<li id="menu-cd"><a href="corporateDesign.html">Corporate Design</a></li>' + '\n' +
+                          '<li id="menu-advertising"><a href="advertising.html">Advertising</a></li>' + '\n' +
+                          '<li id="menu-print"><a href="/print.html">Print</a></li>' + '\n' +
+                          '<li id="menu-packaging"><a href="packaging.html">Packaging</a></li>' + '\n' +
+                          '<li id="menu-web"><a href="web.html">Web</a></li>' + '\n' +
+                          '<li id="menu-fotografie"><a href="fotografie.html">Fotografie</a></li>' + '\n' +
+                          '<li id="menu-3d"><a href="3D.html">3D</a></li>' + '\n' +
+                          '<li id="menu-illustration"><a href="illustration">Illustrationen</a></li>' + '\n' +
                           '<li id="menu-freeProjects"><a href="freieProjekte.html">Freie Projekte</a></li>' + '\n' +
                       '</ul>' + '\n' +
                   '</li>' + '\n' +

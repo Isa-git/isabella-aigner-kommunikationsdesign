@@ -272,9 +272,7 @@ div.overlay-blue-new:hover {
 /*Kontaktformular*/
 #kontakt {
     padding-bottom: 0 !important;
-    padding-top: 6%;
 }
-
 #kontakt fieldset legend {
     color: #060c13;
     font-style: oblique;
@@ -387,11 +385,5 @@ div.overlay-blue-new:hover {
     text-transform: uppercase;
     margin: 0;
 }
-.angebote-index {
-    background-color: #DCE9EE;
-    color: #0d1b2b;
-}
 
-#about-isabella {
-    margin-bottom: 6%;
-}
+
